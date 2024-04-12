@@ -27,6 +27,20 @@ Execução do Script:
    - Outros: Pasta de destino para arquivos com extensões diferentes das mencionadas acima.
 ![imagem](https://github.com/matheus3pires/Terceira-Atividade-de-Automacao-ADS1231-Devops/assets/87993331/e6b97827-51af-482e-a746-3ebe2beb842f)
 
+## Instruções de Uso Docker
+1. Navegue para o Diretório do Projeto.
+2. Construa a Imagem Docker:
+   
+        docker build -t terceira-atividade . 
+       
+3. Execute o Container Docker:
+   
+        docker run -it terceira-atividade 
+       
+![imagem (2)](https://github.com/matheus3pires/Terceira-Atividade-de-Automacao-ADS1231-Devops/assets/87993331/64390968-ef91-47df-bdb1-b653f6d7268b)
+
+
+
 ## Minhas Redes.
 Fique conectado para mais novidades e atualizações. Não hesite em entrar em contato!
  
